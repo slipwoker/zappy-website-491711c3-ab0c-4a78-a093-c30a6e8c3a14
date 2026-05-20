@@ -1,0 +1,78 @@
+# פיכפידע — Generative Engine Optimization Map
+
+> Pikpida is a fun and educational Hebrew-language platform where children and young learners come to master 'pikpuk' (a playful form of speech or wordplay) and gain general knowledge. The brand has a youthful, energetic, and trustworthy personality, aiming to attract parents and kids with a reliable and inviting online presence. The platform includes a registration form collecting basic personal and parental details, emphasizing safety and credibility.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פיכפידע היא הפלטפורמה המהנה לילדים שרוצים לפכפך ולרכוש ידע כללי בעברית. הצטרפו לאלפי לומדים שכבר גילו את הכיף שבלמידה!
+
+### חוויית למידה
+https://example.com/learning-experience
+חוויית למידה | פיכפידע. אנשים שרוצים לפכפך
+
+### הרשמה
+https://example.com/registration
+הרשמה | פיכפידע. אנשים שרוצים לפכפך
+
+### צור קשר
+https://example.com/contact
+צור קשר | פיכפידע. אנשים שרוצים לפכפך
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/registration
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `שם_פרטי` (text, required)
+  - `שם_משפחה` (text, required)
+  - `גיל` (number, required)
+  - `מספר_טלפון` (tel, required)
+  - `שם_הורה` (text, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פיכפידע
+Pikpida is a fun and educational Hebrew-language platform where children and young learners come to master 'pikpuk' (a playful form of speech or wordplay) and gain general knowledge. The brand has a youthful, energetic, and trustworthy personality, aiming to attract parents and kids with a reliable and inviting online presence. The platform includes a registration form collecting basic personal and parental details, emphasizing safety and credibility.
+
+## Target Audience
+- ילדים ובני נוער המעוניינים ללמוד פכפוך וידע כללי
+- אנשים אשר רוצים לפכפך
+
+## Industry
+Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
