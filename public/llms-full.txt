@@ -2,13 +2,13 @@
 
 Pikpida is a fun and educational Hebrew-language platform where children and young learners come to master 'pikpuk' (a playful form of speech or wordplay) and gain general knowledge. The brand has a youthful, energetic, and trustworthy personality, aiming to attract parents and kids with a reliable and inviting online presence. The platform includes a registration form collecting basic personal and parental details, emphasizing safety and credibility.
 
-Source: https://example.com
+Source: https://fikfide.zappy5.app
 
 ---
 
 ## אנשים שרוצים לפכפך — פיכפידע
 
-URL: https://example.com
+URL: https://fikfide.zappy5.app
 Description: פיכפידע היא הפלטפורמה המהנה לילדים שרוצים לפכפך ולרכוש ידע כללי בעברית. הצטרפו לאלפי לומדים שכבר גילו את הכיף שבלמידה!
 
 אנשים שרוצים לפכפך — פיכפידע
@@ -441,7 +441,7 @@ Description: פיכפידע היא הפלטפורמה המהנה לילדים ש
 
 ## חוויית למידה — פיכפידע
 
-URL: https://example.com/learning-experience
+URL: https://fikfide.zappy5.app/learning-experience
 Description: חוויית למידה | פיכפידע. אנשים שרוצים לפכפך
 
 חוויית למידה — פיכפידע
@@ -948,7 +948,7 @@ Description: חוויית למידה | פיכפידע. אנשים שרוצים �
 
 ## הרשמה — פיכפידע
 
-URL: https://example.com/registration
+URL: https://fikfide.zappy5.app/registration
 Description: הרשמה | פיכפידע. אנשים שרוצים לפכפך
 
 הרשמה — פיכפידע
@@ -1317,7 +1317,7 @@ Description: הרשמה | פיכפידע. אנשים שרוצים לפכפך
 
 ## צור קשר — פיכפידע
 
-URL: https://example.com/contact
+URL: https://fikfide.zappy5.app/contact
 Description: צור קשר | פיכפידע. אנשים שרוצים לפכפך
 
 צור קשר — פיכפידע
@@ -1827,7 +1827,7 @@ Description: צור קשר | פיכפידע. אנשים שרוצים לפכפך
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://fikfide.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2026,7 +2026,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://fikfide.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2234,7 +2234,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://fikfide.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש

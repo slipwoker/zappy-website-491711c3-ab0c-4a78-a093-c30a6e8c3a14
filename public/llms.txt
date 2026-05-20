@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://fikfide.zappy5.app
 פיכפידע היא הפלטפורמה המהנה לילדים שרוצים לפכפך ולרכוש ידע כללי בעברית. הצטרפו לאלפי לומדים שכבר גילו את הכיף שבלמידה!
 
 ### חוויית למידה
-https://example.com/learning-experience
+https://fikfide.zappy5.app/learning-experience
 חוויית למידה | פיכפידע. אנשים שרוצים לפכפך
 
 ### הרשמה
-https://example.com/registration
+https://fikfide.zappy5.app/registration
 הרשמה | פיכפידע. אנשים שרוצים לפכפך
 
 ### צור קשר
-https://example.com/contact
+https://fikfide.zappy5.app/contact
 צור קשר | פיכפידע. אנשים שרוצים לפכפך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://fikfide.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://fikfide.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://fikfide.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/registration
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://fikfide.zappy5.app/registration
+- Endpoint: https://fikfide.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -73,6 +73,6 @@ Education
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://fikfide.zappy5.app/sitemap.xml
+- Robots: https://fikfide.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://fikfide.zappy5.app/llms-full.txt
